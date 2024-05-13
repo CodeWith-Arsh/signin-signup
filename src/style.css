@@ -142,7 +142,7 @@ html {
     border: none;
     border-radius: 1.5rem;
     padding: 1rem 2rem;
-    color: blanchedalmond;
+    color: rgb(255, 255, 255);
     font-size: 1.4rem;
 }
 
@@ -160,7 +160,7 @@ html {
     top: 50%;
     transform: translateY(-50%);
     font-size: 1.4rem;
-    color: #000;
+    color:#FCA311;
 }
 .btn-group {
     width: 40rem;
