@@ -142,7 +142,7 @@ html {
     border: none;
     border-radius: 1.5rem;
     padding: 1rem 2rem;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-size: 1.4rem;
 }
 
@@ -160,7 +160,7 @@ html {
     top: 50%;
     transform: translateY(-50%);
     font-size: 1.4rem;
-    color:#FCA311;
+    color: #000;
 }
 .btn-group {
     width: 40rem;
@@ -192,6 +192,6 @@ html {
     width: 6rem;
     height: 6rem;
     border-radius: 50%;
-    background-color: #FCA311;
+    background-color: #fca311;
     box-shadow: 0 1rem 5rem rgba(75, 57, 57, 0.3);
 }
